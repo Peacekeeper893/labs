@@ -89,6 +89,15 @@ int QueueStack :: pop()
                 }
         }
            
+/*  
+Alternate Implementation of the above step
+
+        queue<int>temp;
+        temp=q1;
+        q1=q2;
+        q2=temp;
+
+*/
 
             
         return res;
