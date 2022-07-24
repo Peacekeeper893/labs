@@ -6,10 +6,10 @@ using namespace std;
 int main()
 {
     bool flag=true;
-    string s="naman";
+    string s="namanm";
     stack <char> st;
     int i=0;
-    while(s[i] != '\0 ')
+    while(s[i] !=NULL)
     {
         st.push(s[i]);
         i++;

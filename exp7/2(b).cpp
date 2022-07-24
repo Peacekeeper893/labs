@@ -63,15 +63,6 @@ void rearrange(Node * head)
 
 
 
-
-
-
-
-
-
-
-
-
 int main()
 {
     int A[5]={2,4,9,15,18};
